@@ -3,8 +3,8 @@
    version="1.1"
    viewBox="0 0 256.2041 30.857328"
    id="svg521"
-   sodipodi:docname="login-new1.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logo-blue.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    width="256.2041"
    height="30.857328"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,13 +21,13 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.60363373"
-     inkscape:cx="1878.6226"
-     inkscape:cy="-377.71249"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="118"
+     inkscape:zoom="4.8290698"
+     inkscape:cx="283.07729"
+     inkscape:cy="-21.432699"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg521">
     <inkscape:page
@@ -608,87 +608,6 @@
     </style>
   </defs>
   <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
-  <g
-     id="g44-0"
-     inkscape:label="logo"
-     transform="matrix(1.336938,0,0,1.336938,-35.606059,-39.328509)">
-    <g
-       id="g41-8">
-      <path
-         class="cls-139"
-         d="m 42.6,35.1 v 7.3 l -2.3,2.3 H 34 V 48 H 30.9 V 32.8 h 9.4 z m -8.7,7.1 h 5.6 v -6.9 h -5.6 z"
-         id="path30-9"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 44.4,47.9 V 32.7 h 3.1 v 6 h 6 v -6 h 3.1 v 15.2 h -3.1 v -6.4 h -6 v 6.4 z"
-         id="path31-6"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="m 58.6,48 v -2.5 h 2.2 V 35.2 h -2.2 v -2.6 l 3.7,0.2 3.7,-0.2 v 2.5 H 63.8 V 45.4 H 66 V 48 l -3.7,-0.2 z"
-         id="path32-5"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="m 68.3,47.9 v -2.7 h 8.4 V 41.7 L 68.1,41 v -6 l 2.3,-2.3 h 9.3 v 2.7 h -8.4 v 3.3 l 8.6,0.7 v 6.2 l -2.3,2.3 z"
-         id="path33-3"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 82,47.9 V 32.7 h 3.1 v 6 h 6 v -6 h 3.1 v 15.2 h -3.1 v -6.4 h -6 v 6.4 z"
-         id="path34-8"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="m 96.3,48 v -2.5 h 2.2 V 35.2 h -2.2 v -2.6 l 3.7,0.2 3.7,-0.2 v 2.5 h -2.2 v 10.3 h 2.2 V 48 L 100,47.8 Z"
-         id="path35-6"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 105.8,47.9 V 32.7 h 3.2 l 6.4,10.8 V 32.7 h 2.9 v 15.2 h -3.2 l -6.4,-10.8 v 10.8 z"
-         id="path36-5"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 120.5,45.6 V 35.1 l 2.3,-2.3 h 8.7 v 2.7 h -8 v 9.8 h 6 v -3.9 h -3.7 v -2.5 h 6.4 V 48 h -9.5 l -2.3,-2.3 z"
-         id="path37-1"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 162.8,45.6 V 35.1 l 2.3,-2.3 h 7.8 v 2.8 h -7 v 9.6 h 7.2 V 48 h -8 l -2.3,-2.3 z"
-         id="path38-3"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 174.9,47.9 V 32.7 h 3.1 v 12.6 h 5.1 v -3.5 h 2.8 v 6.1 z"
-         id="path39-7"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="M 187.6,45.6 V 32.7 h 3.1 v 12.4 h 5.7 V 32.7 h 3.1 v 12.9 l -2.3,2.3 H 190 l -2.3,-2.3 z"
-         id="path40-1"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="m 213.6,35 v 3.8 l -1.2,1 1.6,1.4 v 4.4 l -2.3,2.3 h -10 V 32.7 h 9.6 z m -8.8,4 h 5.6 v -3.7 h -5.6 z m 0,6.4 h 6 v -4.2 h -6 z"
-         id="path41-0"
-         style="fill:#0b2063" />
-    </g>
-    <g
-       id="g43-9">
-      <path
-         class="cls-139"
-         d="m 143.4,39.6 -3.7,-2.2 c -0.5,-0.3 -1.1,0 -1.1,0.6 v 4.3 c 0,0.6 0.6,0.9 1.1,0.6 l 3.7,-2.2 c 0.5,-0.3 0.5,-1 0,-1.3 z"
-         id="path42-2"
-         style="fill:#0b2063" />
-      <path
-         class="cls-139"
-         d="m 156.4,39.2 -9.8,-5.7 c -0.8,-0.5 -1.9,0.1 -1.9,1.1 v 3.2 l 2.7,1.5 c 0.6,0.4 0.6,1.3 0,1.7 l -2.7,1.5 v 3.4 c 0,1 1,1.5 1.9,1.1 l 9.8,-5.7 c 0.8,-0.5 0.8,-1.7 0,-2.1 z"
-         id="path43-5"
-         style="fill:#0b2063" />
-    </g>
-  </g>
   <metadata
      id="metadata521">
     <i:aipgfRef
@@ -5379,4 +5298,14 @@ BjN5LQLS7NtSD6Nxb0LTzvjl/b9350VgZOGjj4z2lgGF6k+BEwCYoVz19yYOQm7p4CVw+WSQt2xy
 YcPOgCflu4wNPTM6M8LJX3AFpmUlSXeTASlzQuq1n84ezKBHo8j9KcRjtnQKWQceAQ==
 ]]></i:aipgf>
   </metadata>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:72.2674;fill:#0b2063;fill-opacity:1"
+     x="43.072475"
+     y="16.980495"
+     id="text1"
+     transform="matrix(1.9038916,0,0,2.3006397,-75.190077,-13.333519)"><tspan
+       x="43.072475"
+       y="16.980495"
+       id="tspan2">PhishAware</tspan></text>
 </svg>

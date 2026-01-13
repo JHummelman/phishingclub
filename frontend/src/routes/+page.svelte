@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Phishing Club - Dashboard</title>
+	<title>PhishAware - Dashboard</title>
 </svelte:head>
 
 <main>

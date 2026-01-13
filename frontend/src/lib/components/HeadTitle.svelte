@@ -3,5 +3,5 @@
 </script>
 
 <svelte:head>
-	<title>{title ?? ''} - Phishing Club</title>
+	<title>{title ?? ''} - PhishAware</title>
 </svelte:head>
