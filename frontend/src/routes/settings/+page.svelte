@@ -749,11 +749,7 @@
 									</div>
 								</label>
 								<p class="text-gray-600 dark:text-gray-300 text-sm transition-colors duration-200">
-									Read about the difference between <a
-										class="white underline"
-										href="https://phishing.club/blog/phishing-simulation-vs-red-team-phishing/"
-										target="_blank">phishing simulation and red team phishing</a
-									>
+									
 								</p>
 							</div>
 							<FormError message={displayModeError} />
