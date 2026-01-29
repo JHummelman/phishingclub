@@ -3,7 +3,7 @@ set -euo pipefail
 
 echo "Getting Phishing Club"
 # Get first phishingclub*.tar.gz asset from latest release
-URL=$(curl -fsSL https://api.github.com/repos/janhummelman/phishingclub/releases/latest \
+URL=$(curl -fsSL https://api.github.com/repos/jhummelman/phishingclub/releases/latest \
   | grep -Eo 'https://[^"]+/releases/download/[^"]+/phishingclub[^"/]*\.tar\.gz' | head -1) || true
 [ -n "$URL" ] || { echo "[!] No phishingclub tarball found" >&2; exit 1; }
 
